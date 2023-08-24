@@ -17,7 +17,7 @@ Individual Contributions
 Adindu Jerry Chekwubechukwu 20/0375
 Adindu Jerry Chekwubechukwu is the group leader and he contributed to the following parts of the project:
  1. The responsiveness of the website
- 2. Hosting the website on GitHub/Netlify
+ 2. Hosting the website on GitHub
  3. 100% of the README.md file
 
 Anorue Chukwuebuka Nnaemeka 20/1925
