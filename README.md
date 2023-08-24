@@ -11,7 +11,7 @@ Team Members
  6. Anorue Chukwuebuka Nnaemeka 20/1925
 
 Project Description
-The website is deplicate webview of the design on figma from scratch. The website is built using HTML and CSS. The website is hosted on GitHub Pages and can be accessed via this link: https: https://github.com/DrJmoney/seng102-group1-project.git
+The website is deplicate webview of the design on figma from scratch. The website is built using HTML and CSS. The website is hosted on GitHub Pages and can be accessed via this link: https://github.com/DrJmoney/seng102-group1-project.git
 
 Individual Contributions
 Adindu Jerry Chekwubechukwu 20/0375
