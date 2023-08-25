@@ -3,7 +3,7 @@
 SENG 102 PROJECT
 
 Team Members
- 1. Adindu Jerry Chekwubechukwu 20/0375
+ 1. Adindu Jerry Chekwubechukwu 20/0375 (Group Leader)
  2. Adedeji Vindication Oluwakayode 22/0375
  3. Ajagba David Kamsiriochim 21/1534
  4. Alaegbu Chiedozie David 21/2804
@@ -14,7 +14,7 @@ Project Description
 The website is deplicate webview of the design on figma from scratch. The website is built using HTML and CSS. The website is hosted on GitHub Pages and can be accessed via this link: https://github.com/DrJmoney/seng102-group1-project.git
 
 Individual Contributions
-Adindu Jerry Chekwubechukwu 20/0375
+Adindu Jerry Chekwubechukwu 20/0375 (Group Leader)
 Adindu Jerry Chekwubechukwu is the group leader and he contributed to the following parts of the project:
  1. The responsiveness of the website
  2. Hosting the website on GitHub
